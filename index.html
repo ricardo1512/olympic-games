@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="js/d3.v7.min.js"></script>
+    <script src="script.js" defer></script>
+    <script src="filters/selectCountry.js"></script>
+    <script src="filters/selectSeason.js"></script>
+    <script src="filters/timeline.js"></script>
+    <script src="idioms/choroplethmap.js"></script>
+    <script src="idioms/linechart.js"></script>
+    <script src="idioms/clevelanddotplot.js"></script>
+    <script src="idioms/scatterplot.js"></script>
+    <title>One Century of Olympic Games</title>
+  </head>
+
+  <body onload="init()">
+
+    <div class="container">
+      <div class="Header">
+        <img src="images/ist_logo.png" alt="Left Image", style="left: 2px"/>
+        <h1>One Century of Olympic Games</h1>
+        <img src="images/olympic_games_logo.png" alt="Right Image", style="right: 2px"/>
+      </div>
+
+      <div class="ChoroplethMap"></div>
+      <div class="LineChart"></div>
+
+      <div class="Controls">
+        <label for="selectSeason"></label>
+          <select id="selectSeason" style="color: #33c2e6; font-size: 12px; height: 30px;">
+          </select>
+        <label for="selectSeason"></label>
+        <label for="selectCountry"></label>
+          <select id="selectCountry" style="color: #80ff80; font-size: 12px; height: 30px;">
+          </select>
+        <label for="selectCountry"></label>
+        <div id="timeline" style="flex-grow: 1; height: 25px;"></div>
+      </div>
+
+      <div class="ClevelandDotPlot"></div>
+      <div class="ScatterPlot"></div>
+      
+    </div>
+
+  </body>
+</html>

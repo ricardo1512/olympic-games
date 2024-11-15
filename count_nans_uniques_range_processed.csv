@@ -1,0 +1,16 @@
+Column,NaN Count,Unique Values Count,Min Value,Max Value
+ID,0,135571,1,135571
+Sex,0,2,N/A,N/A
+Age,9474,74,10.0,97.0
+Year,0,35,1896,2016
+Season,0,2,N/A,N/A
+Sport,0,66,N/A,N/A
+Medal,0,4,0,5
+Country,0,206,N/A,N/A
+Country_code,454,207,N/A,N/A
+Continent,569,5,N/A,N/A
+Host_country,0,23,N/A,N/A
+Host_country_code,0,23,N/A,N/A
+Edition,0,48,N/A,N/A
+Country_performance,0,1309,0.0,5.0
+TOTAL ROWS,271116,,,

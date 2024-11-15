@@ -1,0 +1,17 @@
+Column,NaN Count,Unique Values Count,Min Value,Max Value
+ID,0,135571,1,135571
+Name,0,134732,N/A,N/A
+Sex,0,2,N/A,N/A
+Age,9474,74,10.0,97.0
+Height,60171,95,127.0,226.0
+Weight,62875,220,25.0,214.0
+Team,0,1181,N/A,N/A
+NOC,0,230,N/A,N/A
+Games,0,51,N/A,N/A
+Year,0,35,1896,2016
+Season,0,2,N/A,N/A
+City,0,42,N/A,N/A
+Sport,0,66,N/A,N/A
+Event,0,765,N/A,N/A
+Medal,231333,3,N/A,N/A
+TOTAL ROWS,271116,,,
