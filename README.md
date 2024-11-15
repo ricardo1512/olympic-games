@@ -1,7 +1,9 @@
 # olympic-games
 APPLICATION "ONE CENTURY OF OLYMPIC GAMES"
 
-Application "One Century of Olympic Games" is a web-based platform designed by Ricardo Vicente in 2024 for seamless performance on modern browsers and serves as a resource for exploring various datasets. This document details supported browsers, used datasets, limitations on data availability, and other essential information.
+Application "One Century of Olympic Games" is a web-based platform designed by Ricardo Vicente in 2024 for seamless performance on modern browsers and serves as a resource for exploring various datasets. This document details supported browsers, used datasets, limitations on data availability, and other essential information. 
+
+The presentation of this application is made in the following video: https://youtu.be/YDZ7IUYcBpw
 
 The "One Century of Olympic Games" is a web application aimed at providing insights into Olympic Games data from 1896 to 2016. It supports modern browsers and is built using JavaScript, HTML, and CSS. The application features various interactive tools and visualizations, including a Choropleth Map, Cleveland Dot Plot, Line Chart, and Scatter Plot. Users can explore data over time using a timeline with a brush, and apply filters to view information by country and season (Winter and Summer). This platform allows for an interactive exploration and analysis of Olympic Games data, offering a detailed view of historical trends and performances across different dimensions, such as continent, gender, sports, and GDP per capita.
 
